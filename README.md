@@ -1,6 +1,6 @@
 # video_converter
 
-A new Flutter project.
+This project build a android app to convert mkv videos to mp4.
 
 ## Getting Started
 
